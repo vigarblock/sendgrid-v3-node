@@ -1,0 +1,21 @@
+{
+  "name": "sendgrid-v3-node-example",
+  "version": "1.0.0",
+  "description": "A simple implementation of SendGrid's V3 library with email attachment support",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigarblock/sendgrid-v3-node.git"
+  },
+  "author": "Vigar Block",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigarblock/sendgrid-v3-node/issues"
+  },
+  "homepage": "https://github.com/vigarblock/sendgrid-v3-node#readme",
+  "dependencies": {
+    "@sendgrid/helpers": "^6.5.3",
+    "@sendgrid/mail": "^6.5.3",
+    "lodash": "^4.17.15"
+  }
+}
