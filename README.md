@@ -1,2 +1,3 @@
-# sendgrid-v3-node
-A simple implementation of SendGrid's V3 library with email attachment support
+# SendGrid V3 Node.JS implementation example
+
+This project demonstrates how the new SendGrid node packages can be used to send emails with attachments.
