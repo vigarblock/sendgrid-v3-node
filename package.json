@@ -16,6 +16,6 @@
   "dependencies": {
     "@sendgrid/helpers": "^6.5.3",
     "@sendgrid/mail": "^6.5.3",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
